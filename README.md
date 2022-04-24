@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UdemyLearner
-- 👀 I’m interested in Java/Python/C++
+- 👋 Hi, I’m @Priyanshu
+- 👀 I’m interested in Java/Python/C++/HTML/CSS/Js/ReactJS/Angular/V/GO
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
